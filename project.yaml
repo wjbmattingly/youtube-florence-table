@@ -1,0 +1,16 @@
+project:
+  name: Project
+  repo: Repo
+  level: Intermediate
+  long_description: LongDescription
+  short_description: ShortDescription
+  video:
+    video_title: Title
+    video_url: https://www.youtube.com/watch?v=gDVbXEKiNmE
+    image_url: https://img.youtube.com/vi/gDVbXEKiNmE/maxresdefault.jpg
+    video_date: Date
+  authors:
+  - name: William J.B. Mattingly
+dependencies:
+  python: '>=3.10'
+  packages: []

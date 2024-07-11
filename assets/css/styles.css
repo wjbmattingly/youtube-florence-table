@@ -1,0 +1,37 @@
+.difficulty-container {
+    font-family: Arial, sans-serif;
+    margin: 20px 0;
+}
+
+.difficulty-list {
+    list-style: none;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    margin: 10px 0;
+}
+
+.difficulty-list li {
+    padding: 8px 16px;
+    margin: 0 5px;
+    border: 2px solid transparent;
+    border-radius: 20px;
+    transition: all 0.3s ease;
+}
+
+.difficulty-list li.level {
+    background-color: #f0f0f0;
+    color: #333;
+}
+
+.difficulty-list li.selected {
+    background-color: #007BFF;
+    color: white;
+    border-color: #0056b3;
+}
+
+.difficulty-list li:hover {
+    cursor: pointer;
+    background-color: #0056b3;
+    color: white;
+}
