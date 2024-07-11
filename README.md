@@ -1,5 +1,5 @@
-# Project
-
+# Tutorial for Table Detection with TF-ID
+Date for Tutorial: 11 July 2024
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -15,9 +15,11 @@
 </div>
 </body>
 
-[![thumbnail](https://img.youtube.com/vi/gDVbXEKiNmE/maxresdefault.jpg)](https://www.youtube.com/watch?v=gDVbXEKiNmE)
+[Watch the video!](https://youtu.be/iJ8Tuk-PDyc)
 
-This tutorial guides you through how to use [TF-ID](https://huggingface.co/yifeihu/TF-ID-base), a new model trained to do table and figure detection. It was created by [https://x.com/hu_yifei](https://x.com/hu_yifei) It works remarkably well with modern and historical documents without any training. It also has a solution for working with Florence models on a Mac.
+[![thumbnail](https://img.youtube.com/vi/iJ8Tuk-PDyc/maxresdefault.jpg)](https://www.youtube.com/watch?v=iJ8Tuk-PDyc)
+
+This tutorial guides you through how to use [TF-ID](https://huggingface.co/yifeihu/TF-ID-base), a new model trained to do table and figure detection. It was created by [https://x.com/hu_yifei](https://x.com/hu_yifei) It works remarkably well with modern and historical documents without any training. It also has a solution for working with Florence models on a Mac. Most of the code comes from the TF-ID repo linked above. My solution for the issue with Florence on Macs comes from [this discussion on HF](https://huggingface.co/microsoft/Florence-2-large-ft/discussions/4).
 
 # Installation
 

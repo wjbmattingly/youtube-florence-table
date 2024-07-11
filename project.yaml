@@ -1,14 +1,14 @@
 project:
-  name: Project
+  name: Tutorial for Table with TF-ID
   repo: Repo
   level: Intermediate
   long_description: LongDescription
   short_description: ShortDescription
   video:
     video_title: Title
-    video_url: https://www.youtube.com/watch?v=gDVbXEKiNmE
-    image_url: https://img.youtube.com/vi/gDVbXEKiNmE/maxresdefault.jpg
-    video_date: Date
+    video_url: https://youtu.be/iJ8Tuk-PDyc)
+    image_url: https://img.youtube.com/vi/iJ8Tuk-PDyc/maxresdefault.jpg
+    video_date: 11 July 2024
   authors:
   - name: William J.B. Mattingly
 dependencies:
